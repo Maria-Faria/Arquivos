@@ -1,0 +1,1 @@
+O objetivo aqui é gerar um arquivo de saída chamado "cadastroPersonalizadoNome", que deverá conter as informações de todos os arquivos .txt existentes nesse repositório, organizando-as em ordem alfabética pelo nome do cliente.
